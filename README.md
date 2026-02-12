@@ -38,17 +38,17 @@ Supported Environments:
 # 🚀 Installation Guide (Kali Linux / Ubuntu)
 
 ## Step 1: Update System (Recommended)
-sudo apt update
+     sudo apt update
 ## Step 2: Install Git and Python (If Not Installed)
-sudo apt install git python3 python3-pip -y
+     sudo apt install git python3 python3-pip -y
 ## Step 3: Clone the Repository
-git clone https://github.com/ahiraankush771/SecAudit-Lite.git�
+     git clone https://github.com/ahiraankush771/SecAudit-Lite.git�
 ## Step 4: Move into Project Directory
-cd SecAudit-Lite
+     cd SecAudit-Lite
 ## Step 5: Install Required Dependencies
-pip install -r requirements.txt
+     pip install -r requirements.txt
 ## Step 6: Run the Tool (Recommended with sudo)
-sudo python3 secaudit.py
+     sudo python3 secaudit.py
 
 ---
 
