@@ -57,17 +57,17 @@ sudo python3 secaudit.py
 Note: Termux has limited Linux system access, so some checks may show as "not installed".
 
 ## Step 1: Update Termux
-pkg update
+         pkg update
 ## Step 2: Install Required Packages
-pkg install git python -y
+         pkg install git python -y
 ## Step 3: Clone the Repository
-git clone https://github.com/ahiraankush771/SecAudit-Lite.git�
+         git clone https://github.com/ahiraankush771/SecAudit-Lite.git�
 ## Step 4: Move into Directory
-cd SecAudit-Lite
+         cd SecAudit-Lite
 ## Step 5: Install Dependencies
-pip install -r requirements.txt
+         pip install -r requirements.txt
 ## Step 6: Run the Tool
-python3 secaudit.py
+         python3 secaudit.py
 ---
 
 # 🧠 About the Developer
